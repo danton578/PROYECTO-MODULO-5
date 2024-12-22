@@ -1,4 +1,4 @@
-Aplicacion de REACT para tienda online, se debe instalar el packete nodemodules segun 
+Aplicacion de REACT para tienda online, se debe instalar la carpeta nodemodules segun 
 las siguientes dependencias:
 
         "@fortawesome/fontawesome-svg-core": "^6.7.2",
